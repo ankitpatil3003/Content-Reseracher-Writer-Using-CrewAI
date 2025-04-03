@@ -1,0 +1,4 @@
+#virtual environment
+/crewai
+#secret keys
+.env
